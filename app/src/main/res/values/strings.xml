@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Evil Service</string>
+    <string name="android_service_attacks_poc">Android Service Attacks PoC</string>
+    <string name="start_service">Start Service</string>
+    <string name="service_lifecycle">Service Lifecycle</string>
+    <string name="basic_message_handler">Basic message handler</string>
+    <string name="message_replies">Message replies</string>
+    <string name="aidl_service">AIDL Service</string>
+    <string name="complex_aidl_service">Complex AIDL Service</string>
+    <string name="dynamic_load_aidl">Dynamic Load AIDL</string>
+    <string name="dynamic_load_aidl_2">Dynamic Load AIDL 2</string>
+</resources>
